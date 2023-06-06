@@ -1,0 +1,48 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "oGrbZ4USJyUrQrTeGaPlfPpZNGY=",
+			"path": "github.com/buger/jsonparser",
+			"revision": "ee4c978eae7efe2344eb024dd7d77918d3f7c55c",
+			"revisionTime": "2019-10-04T11:47:45Z"
+		},
+		{
+			"checksumSHA1": "+b9Dcrefp1FAUW1mDYpqr7jVKuA=",
+			"path": "github.com/influxdata/influxdb/client/v2",
+			"revision": "db8f51ff2fdba4f0825a007000a4ad244ae163d1",
+			"revisionTime": "2018-12-18T17:55:49Z"
+		},
+		{
+			"checksumSHA1": "/SC4ZMeKnNqhuYDhWLZp+z4yeG8=",
+			"path": "github.com/influxdata/influxdb/models",
+			"revision": "db8f51ff2fdba4f0825a007000a4ad244ae163d1",
+			"revisionTime": "2018-12-18T17:55:49Z"
+		},
+		{
+			"checksumSHA1": "Z0Bb5PWa5WL/j5Dm2KJCLGn1l7U=",
+			"path": "github.com/influxdata/influxdb/pkg/escape",
+			"revision": "db8f51ff2fdba4f0825a007000a4ad244ae163d1",
+			"revisionTime": "2018-12-18T17:55:49Z"
+		},
+		{
+			"checksumSHA1": "lDHmXNdRAl7aVdjAiPM8Y0SP5Vo=",
+			"path": "github.com/influxdata/platform/models",
+			"revision": "ef6321a7086898ac8c8567a76e41f2ee495a8e91",
+			"revisionTime": "2018-12-19T02:24:09Z"
+		},
+		{
+			"checksumSHA1": "Z1jNHNivahCME1jnd0nsJ/rUpfc=",
+			"path": "github.com/influxdata/platform/pkg/escape",
+			"revision": "ef6321a7086898ac8c8567a76e41f2ee495a8e91",
+			"revisionTime": "2018-12-19T02:24:09Z"
+		},
+		{
+			"checksumSHA1": "3jr8Dp2NoJLlBPvIcNZOXjX0efQ=",
+			"path": "glog",
+			"revision": ""
+		}
+	],
+	"rootPath": "nginx_traffic"
+}

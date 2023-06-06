@@ -1,0 +1,9 @@
+{
+  "glog":{
+    "log_dir": "/var/log/glog",
+    "toStderr": false,
+    "alsoToStderr": false,
+    "verbosity": 0,
+    "stderrThreshold": 1
+  }
+}

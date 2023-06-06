@@ -1,0 +1,14 @@
+{
+  "db":{
+    "DBip"          : "172.29.253.41:8086",
+    "MyDB"          : "objectStorage",
+    "MyMeasurement" : "traffic",
+    "username"      : "rgw",
+    "password"      : "influx"
+  },
+  "nginx": {
+    "FileName": "/var/log/nginx/access.log",
+    "PartitionPointFileName": "/etc/zzcmonitor/PartitionPoint.json",
+    "Addr": "0.0.0.0:1234"
+  }
+}
